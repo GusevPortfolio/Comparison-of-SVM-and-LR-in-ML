@@ -1,4 +1,4 @@
-# Comparison of Support Vector Machine and Linear Regression (Classical Machine Learning Algorithms) 
+# Comparison of Support Vector Machine and Linear Regression (Classical ML) 
 
 
 Train two classifier methods and compare the results.
