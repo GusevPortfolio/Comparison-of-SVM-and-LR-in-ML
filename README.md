@@ -22,16 +22,19 @@ Balanced Accuracy SVM/LR = 0.73/0.71;
 
 F1-Score Breakdown SVM/LR = 0.86/0.85;
 
+<br/>
 
 ### Label proportions for each variable
 
 ![Results](https://github.com/GusevPortfolio/Comparison-of-SVM-and-LR-in-ML/blob/main/Visualisation/Results%201.PNG)
 
+<br/>
 
 ### Accuracy & Balanced Accuracy for models trained on each target
 
 ![Results](https://github.com/GusevPortfolio/Comparison-of-SVM-and-LR-in-ML/blob/main/Visualisation/Results%202.PNG)
 
+<br/>
 
 ### F1-Score Breakdown for Road Surface
 
@@ -39,7 +42,9 @@ F1-Score Breakdown SVM/LR = 0.86/0.85;
 
 
 
-
+<br/>
+<br/>
+<br/>
 
 
 ## Conclusions:
@@ -50,7 +55,8 @@ The SVM and Logistic Regression approaches are remarkably similar, and it's norm
 
 Improvements of models strongly depend on the quality and size of data. The results of the Linear Regression and Support Vector Machine models above, show a capacity for deployment in non-safety related functions. Further research into more complex models and hyperparameter optimization could yield a model more suited to compensate for imbalances in training data.
 
-
+<br/>
+<br/>
 
 ### Additional gratitude to my project team:
 Davin Mc Gowan,
