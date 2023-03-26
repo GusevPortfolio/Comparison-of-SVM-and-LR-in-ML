@@ -3,6 +3,7 @@
 
 
 
+
 Train two classifier methods and compare the results.
 Had taken Support Vector Machine (SVM) and Linear Regression (LR).
 
