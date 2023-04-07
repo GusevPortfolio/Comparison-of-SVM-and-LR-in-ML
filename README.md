@@ -11,7 +11,6 @@ Dataset: Kaggle - Traffic, Driving Style and Road Surface Condition.
 
 
 <br/>
-<br/>
 
 ## Results of models:
 
